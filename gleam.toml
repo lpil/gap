@@ -15,3 +15,4 @@ gleam_community_ansi = "~> 1.1"
 
 [dev-dependencies]
 gleeunit = "~> 0.10"
+glychee = "~> 0.2"
